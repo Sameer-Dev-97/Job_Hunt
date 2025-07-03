@@ -38,11 +38,5 @@ Whether you're a student looking for internships or a professional seeking your 
 
 ---
 
-## 📸 Screenshots
 
-> _Add screenshots here if available (Homepage, Job Listing, Apply Form, etc.)_
-
----
-
-## 📁 Project Structure (Simplified)
 
